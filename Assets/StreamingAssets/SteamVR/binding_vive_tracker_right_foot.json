@@ -1,0 +1,20 @@
+{
+   "action_manifest_version" : 0,
+   "alias_info" : {},
+   "bindings" : {
+      "/actions/default" : {
+         "poses" : [
+            {
+               "output" : "/actions/default/in/pose",
+               "path" : "/user/foot/right/pose/raw"
+            }
+         ]
+      }
+   },
+   "category" : "steamvr_input",
+   "controller_type" : "vive_tracker_right_foot",
+   "description" : "",
+   "name" : "Right Foot",
+   "options" : {},
+   "simulated_actions" : []
+}
