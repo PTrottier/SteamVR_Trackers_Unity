@@ -1,5 +1,4 @@
 {
-   "action_manifest_version" : 0,
    "alias_info" : {},
    "bindings" : {
       "/actions/default" : {
@@ -11,7 +10,6 @@
          ]
       }
    },
-   "category" : "steamvr_input",
    "controller_type" : "vive_tracker_left_shoulder",
    "description" : "",
    "name" : "Left Shoulder",
